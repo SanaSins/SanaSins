@@ -66,7 +66,7 @@ class Attributes(Sana):
 </p>
 
 <p href="https://discord.gg/SanaSolutions" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=30Sana&theme=tokyonight&show_icons=true">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=SanaSins&theme=tokyonight&show_icons=true">
 </p>
 
 </p>
