@@ -17,13 +17,13 @@ class Attributes(Sana):
     def contact(self) -> Tuple[str, str, str]:
         telegram = "t.me/defoSana"
         channel  = "t.me/SanaVouches"
-        email    = "s@autotraffic.ca"
+        email    = "haha@autotraffic.ca"
 	    
         return telegram, channel, email
 
     @property
     def life(self) -> Tuple[List[str], int]:
-        langs = ['English', 'Arabic', 'Spanish']
+        langs = ['English', 'Money']
         age   = 19
 		
         return langs, age
